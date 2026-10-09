@@ -12,7 +12,7 @@ Databricks_Practice/
 └── src/
     ├── lab1_basic_pipeline.py
     ├── dependencies.py
-    └── medallion_pipeline.py
+    └── medallion_pipeline_using_sdp.py
 ```
 
 ## Technologies
